@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MediaExplorer</string>
+    <string name="titulo_home">Media Explorer</string>
+    <string name="firts_categoria">Crear primera categoría</string>
+    <string name="titulo_addcat">Nueva Categoría</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripción</string>
+    <string name="guardar_cat">Guardar Categoria</string>
+    <string name="no_hay_cat">No hay contenidos en la categoría</string>
+    <string name="titulo_addcont">Nuevo Contenido</string>
+    <string name="titulo">Título</string>
+    <string name="opinion">Opinión/Descripción</string>
+    <string name="guardar_cont">Guardar Contenido</string>
+    <string name="titulo_detalle">Detalles</string>
+</resources>
